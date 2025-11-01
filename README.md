@@ -44,14 +44,6 @@ I'm a software engineer working on **React Native Windows (RNW)**—with a focus
 
 ---
 
-### 📊 GitHub Stats (Optional)
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=vineethkuttan&show_icons=true&themeate=true
-  https://github-readme-stats.vercel.app/api/top-langs/?username=vineethkuttan&layout=compact&theme=transparent
-</p>
-
----
-
 ### ⚖️ How I work
 - Defensive programming ♥ 
 - Keep repos **clutter-free** 
