@@ -1,5 +1,5 @@
 <!-- Intro -->
-<h1 align="center">Hi, I'm Vineeth K 👋</h1>
+<h1 align="center">Hi, I'm Vineeth Kuttan 👋</h1>
 <p align="center">
   <b>Software Engineer II @ Microsoft</b> • Hyderabad, India<br/>
   React Native Windows • Accessibility • C++ • Python
